@@ -1,0 +1,17 @@
+D:\Rocky\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+D:\Rocky\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+D:\Rocky\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+D:\Rocky\Infrastructure\bin\Debug\net6.0\Core.dll
+D:\Rocky\Infrastructure\bin\Debug\net6.0\Core.pdb
+D:\Rocky\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Rocky\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rocky\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Rocky\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+D:\Rocky\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Rocky\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CopyComplete
+D:\Rocky\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+D:\Rocky\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
+D:\Rocky\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+D:\Rocky\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll
+D:\Rocky\Infrastructure\bin\Debug\net6.0\Infrastructure.runtimeconfig.json
+D:\Rocky\Infrastructure\obj\Debug\net6.0\Infrastructure.genruntimeconfig.cache
